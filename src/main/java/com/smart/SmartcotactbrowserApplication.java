@@ -10,4 +10,5 @@ public class SmartcotactbrowserApplication {
 		SpringApplication.run(SmartcotactbrowserApplication.class, args);
 	}
 
+	
 }
